@@ -1,5 +1,5 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=espada105)](https://solved.ac/espada105/)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=espada105ID&show_icons=true&theme=radical)
+[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=espada105ID&show_icons=true&theme=radical)
 
 
 
