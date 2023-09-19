@@ -1,4 +1,8 @@
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/백준아이디/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/espada105/)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=espada105ID&show_icons=true&theme=radical)
+
+
+
 <div align=center><h1>📚STUDY📚 </h1></div>
 
 <div align=center> 
@@ -26,6 +30,3 @@
 
 
 
-<div>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=espada105ID&show_icons=true&theme=radical)
-</div>
