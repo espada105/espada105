@@ -1,5 +1,5 @@
 
-<div align=center><h1>📚 STUDY📚 </h1></div>
+<div align=center><h1>📚STUDY📚 </h1></div>
 
 <div align=center> 
 
@@ -18,19 +18,14 @@
   
   <br>
 </div>
-
+<div align=center><h1>SNS </h1></div>
 <div align=center>
 <img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white">
 
-  
+  <a href="https://www.notion.so/968f29ca627e4f51b306aafdf47d6db7" target="_blank">
 </div>
 
-<div align=center>
-<img src="https://img.shields.io/badge/-visualstudiocode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/-intellijideae-000000?style=flat&logo=intellijideae&logoColor=white"/>
 
-  
-</div>
 
 <div>
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=espada105ID&show_icons=true&theme=radical)
