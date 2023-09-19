@@ -20,7 +20,7 @@
 </div>
 <div align=center><h1>SNS </h1></div>
 <div align=center>
-  <a href="https://www.notion.so/968f29ca627e4f51b306aafdf47d6db7" target="https://www.notion.so/968f29ca627e4f51b306aafdf47d6db7">  
+  <a href="https://www.notion.so/968f29ca627e4f51b306aafdf47d6db7" target=target="_blank">  
   <img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white"></a>
 </div>
 
