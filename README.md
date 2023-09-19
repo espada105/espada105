@@ -1,7 +1,7 @@
 
 <div align=center>
-    season2
-<div align=center><h1>📚 STACKS</h1></div>
+    <h1>season2</h1>
+<div align=center>📚 STACKS</div>
 
 <div align=center> 
 
