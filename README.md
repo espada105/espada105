@@ -1,6 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=07F708&width=435&lines=season_2_+2400)](https://git.io/typing-svg)
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=07F708&width=435&lines=season_2_+2400" alt="Typing SVG" /></a>
 
+<div align=center>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=07F708&width=435&lines=season_2_+2400" alt="Typing SVG" /></a>
+<div>
 <div align=center><h1>📚 STACKS</h1></div>
 
 <div align=center> 
