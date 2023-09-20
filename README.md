@@ -22,8 +22,8 @@
 ### ⚒️Tools⚒️
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
   <br>
-</div>
-### SNS
+
+# SNS
 <div>
   <a href="https://www.notion.so/968f29ca627e4f51b306aafdf47d6db7" target=target="_blank">  
   <img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white"></a>
