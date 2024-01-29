@@ -13,6 +13,16 @@
 
 <br>
 
+<h3 align="center">📚 Algorithm 📚</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white"/> 
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
+  <br>
+</p>
+
+<br>
+
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
 <p align="center"> I've used at least once </p>
@@ -32,23 +42,16 @@
 
 <br>
 
-<h3 align="center">Contact</h3>
+<h3 align="center">⭐ Contact ⭐</h3>
 
 <div align="center" style="text-align:center">
   
   <img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white"></a>
   <a href="https://velog.io/@espada105"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@zaman17"/></a>
-  
+  <a href="tjddls207@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=tjddls207@gmail.com"/></a>
+    
 </div>
   
 <br>
 
 
-<p style="display: flex">
-  
-
-<img style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=espada105&layout=compact&theme=nord&hide_border=true" />
-
-![Seongin's GitHub stats](https://github-readme-stats.vercel.app/api?username=espada105&show_icons=true&theme=radical)
-
-</p>
