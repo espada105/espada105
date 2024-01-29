@@ -35,7 +35,6 @@
 
 <div align="center" style="text-align:center">
   
-  <a href="https://www.notion.so/968f29ca627e4f51b306aafdf47d6db7" target=target="_blank">  
   <img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white"></a>
   <a href="https://velog.io/@espada105"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@zaman17"/></a>
   
@@ -48,10 +47,10 @@
 <br>
 
 <p align="center">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwookyoungkim&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a>
-
-
+  
 <a href="https://github.com/espada105"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imysh578&layout=compact&theme=nord&hide_border=true" /></a> 
 ![Seongin's GitHub stats](https://github-readme-stats.vercel.app/api?username=espada105&show_icons=true&theme=radical)
+
+<img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=espada105&layout=compact&theme=nord&hide_border=true" />
 
 </p>
