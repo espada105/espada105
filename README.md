@@ -44,7 +44,7 @@
 <br>
 
 
-<p style="display: flex; gap: 20px; align-items: center;">
+<p style="display: flex">
   
 
 <img style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=espada105&layout=compact&theme=nord&hide_border=true" />
