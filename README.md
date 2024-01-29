@@ -1,5 +1,6 @@
+<p align = center>
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=seonginHong&fontSize=70&animation=twinkling)
-
+</p>
 
 <h3 align="center">💪 Skill 💪</h3>
 
@@ -48,9 +49,9 @@
 
 <p align="center">
   
-<a href="https://github.com/espada105"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imysh578&layout=compact&theme=nord&hide_border=true" /></a> 
-![Seongin's GitHub stats](https://github-readme-stats.vercel.app/api?username=espada105&show_icons=true&theme=radical)
 
 <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=espada105&layout=compact&theme=nord&hide_border=true" />
+
+![Seongin's GitHub stats](https://github-readme-stats.vercel.app/api?username=espada105&show_icons=true&theme=radical)
 
 </p>
