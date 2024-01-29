@@ -50,7 +50,7 @@
 <p align="center">
   
 
-<img style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=espada105&layout=compact&theme=nord&hide_border=true" />
+<img style="height:180px; width:230px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=espada105&layout=compact&theme=nord&hide_border=true" />
 
 ![Seongin's GitHub stats](https://github-readme-stats.vercel.app/api?username=espada105&show_icons=true&theme=radical)
 
