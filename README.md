@@ -53,5 +53,6 @@
 </div>
   
 <br>
-
-
+<div align="center" style="text-align:center">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=espada105)](https://github.com/espada105/github-readme-stats)
+</div>
