@@ -2,22 +2,11 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=seonginHong&fontSize=70&animation=twinkling)
 
 
-<h3 align="center">💪 Skill 💪</h3>
-
-<p align="center">
-<img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/>
-<img src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/>
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
-  <br>
-</p>
-
-<br>
 
 <h3 align="center">📚 Algorithm 📚</h3>
 
 <p align="center">
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white"/> 
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
   <br>
 </p>
 
@@ -54,6 +43,6 @@
   
 <br>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=espada105)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=espada105)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=espada105&layout=compact)
 
