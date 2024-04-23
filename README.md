@@ -1,4 +1,5 @@
-
+<div align="center">
+  
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=seonginHong&fontSize=70&animation=twinkling)
 
 
@@ -43,6 +44,9 @@
   
 <br>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=espada105)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=espada105&layout=compact)
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=espada105)
+
+</div>
