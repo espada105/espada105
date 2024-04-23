@@ -42,11 +42,7 @@
 </div>
 
 
-<div align="center" width= "100%" >
-  
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=espada105)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=espada105&layout=compact)
-</div>
+
 </div>
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
