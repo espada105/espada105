@@ -30,7 +30,7 @@
 
 <h3 align="center">⭐ Contact ⭐</h3>
 <div align="center" style="text-align:center">
-  <img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white"></a>
+  <a href="https://www.notion.so/Developer_SeongIn-Hong-968f29ca627e4f51b306aafdf47d6db7"><img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white"></a>
   <a href="https://velog.io/@espada105"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@zaman17"/></a>
   <a href="tjddls207@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=tjddls207@gmail.com"/></a>
     
