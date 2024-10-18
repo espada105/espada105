@@ -17,7 +17,7 @@
   <a href="https://skillicons.dev">
      <img src="https://skillicons.dev/icons?i=python,c,cpp,java" />
      <br/>
-     <img src="https://skillicons.dev/icons?i=r,sklearn,tensorflow,nodejs" />
+     <img src="https://skillicons.dev/icons?i=pytorch,sklearn,tensorflow,nodejs" />
      <br/>
      <img src="https://skillicons.dev/icons?i=vscode,visualstudio,eclipse,anaconda" />
   </a>
