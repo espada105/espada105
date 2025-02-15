@@ -2,16 +2,19 @@
   
   ![건강하세요](https://github.com/user-attachments/assets/db14d888-dd48-42ef-a54f-28bcfa972d49)
   <br>
-  <br>
-  <br>
-
+ 
+  <h3>Vision AI Engineer</h3>
+ 
+ 
   <i>
     Welcome to my GitHub. If you read my README, you'll be healthy.
   </i>
+  
   <br>
   <i>
   I'm interested in Artificial Intelligence & AeroSpace
   </i>
+  
   <h3>TeckStack</h3>
   
   <a href="https://skillicons.dev">
