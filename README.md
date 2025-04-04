@@ -37,11 +37,13 @@
   <br>
     <br>
       <br>
-<img src="https://github.com/user-attachments/assets/7d73e9ee-5cdf-4b1f-b6cc-4ac9713db4e2" width="20%" alt="프리렌3">
-<img src="https://github.com/user-attachments/assets/7d73e9ee-5cdf-4b1f-b6cc-4ac9713db4e2" width="20%" alt="프리렌3">
-<img src="https://github.com/user-attachments/assets/7d73e9ee-5cdf-4b1f-b6cc-4ac9713db4e2" width="20%" alt="프리렌3">
-<img src="https://github.com/user-attachments/assets/7d73e9ee-5cdf-4b1f-b6cc-4ac9713db4e2" width="20%" alt="프리렌3">
-
+<img src="https://github.com/user-attachments/assets/7d73e9ee-5cdf-4b1f-b6cc-4ac9713db4e2" width="32%" alt="프리렌3">
+<img src="https://github.com/user-attachments/assets/7d73e9ee-5cdf-4b1f-b6cc-4ac9713db4e2" width="32%" alt="프리렌3">
+<img src="https://github.com/user-attachments/assets/7d73e9ee-5cdf-4b1f-b6cc-4ac9713db4e2" width="32%" alt="프리렌3">
+<!-- <img src="https://github.com/user-attachments/assets/7d73e9ee-5cdf-4b1f-b6cc-4ac9713db4e2" width="16%" alt="프리렌3">
+<img src="https://github.com/user-attachments/assets/7d73e9ee-5cdf-4b1f-b6cc-4ac9713db4e2" width="16%" alt="프리렌3">
+<img src="https://github.com/user-attachments/assets/7d73e9ee-5cdf-4b1f-b6cc-4ac9713db4e2" width="16%" alt="프리렌3">
+ -->
 
 
   <br>
