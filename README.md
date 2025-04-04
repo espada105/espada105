@@ -53,110 +53,102 @@
       <br>
       
   <details open>
-    <summary><h3 style="display: inline-block;">My Projects</h3></summary>
+    <summary><h3 style="display: inline-block;">My GitHub</h3></summary>
 
-  <table border="0" cellspacing="0" cellpadding="10" style="border-collapse: collapse; border: none;">
-    <tr style="border: none; background-color: transparent;">
-      <td align="center" style="border: none; vertical-align: top; background-color: transparent;">
-        <h4>🌐 Web Projects</h4>
-        <div align="center">
-          <a href="https://github.com/espada105/summerproject" target="_blank">
-            <img src="https://img.shields.io/badge/Summer_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
-          </a>
-          <a href="https://github.com/espada105/React" target="_blank">
-            <img src="https://img.shields.io/badge/React-181717?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-          </a>
-          <br>
-          <a href="https://github.com/espada105/HSU_FestivalSite" target="_blank">
-            <img src="https://img.shields.io/badge/HSU_Festival_Site-181717?style=for-the-badge&logo=github&logoColor=white"/>
-          </a>
-          <a href="https://github.com/espada105/LikeLion_Hackathon_2023" target="_blank">
-            <img src="https://img.shields.io/badge/LikeLion_Hackathon_2023-181717?style=for-the-badge&logo=github&logoColor=white"/>
-          </a>
-          <br>
-          <a href="https://github.com/espada105/LikeLion_Ideathon_2023" target="_blank">
-            <img src="https://img.shields.io/badge/LikeLion_Ideathon_2023-181717?style=for-the-badge&logo=github&logoColor=white"/>
-          </a>
-          <a href="https://github.com/espada105/InternetProgramming" target="_blank">
-            <img src="https://img.shields.io/badge/Internet_Programming-181717?style=for-the-badge&logo=github&logoColor=white"/>
-          </a>
-          <br>
-          <a href="https://github.com/espada105/Chippo_web" target="_blank">
-            <img src="https://img.shields.io/badge/Chippo_Web-181717?style=for-the-badge&logo=github&logoColor=white"/>
-          </a>
-          <a href="https://github.com/espada105/HSU_FestivalSite_Front" target="_blank">
-            <img src="https://img.shields.io/badge/HSU_Festival_Frontend-181717?style=for-the-badge&logo=github&logoColor=white"/>
-          </a>
-          <br>
-          <a href="https://github.com/espada105/helpService" target="_blank">
-            <img src="https://img.shields.io/badge/Help_Service-181717?style=for-the-badge&logo=github&logoColor=white"/>
-          </a>
-        </div>
+  <table width="100%">
+    <tr>
+      <th align="center" width="33%">🌐 Web</th>
+      <th align="center" width="33%">🧠 AI</th>
+      <th align="center" width="33%">🚀 AeroSpace & ⚙️ Other</th>
+    </tr>
+    <tr>
+      <td align="center" valign="top">
+        <a href="https://github.com/espada105/summerproject" target="_blank">
+          <img src="https://img.shields.io/badge/Summer_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+        <a href="https://github.com/espada105/React" target="_blank">
+          <img src="https://img.shields.io/badge/React-181717?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+        </a>
+        <br>
+        <a href="https://github.com/espada105/HSU_FestivalSite" target="_blank">
+          <img src="https://img.shields.io/badge/HSU_Festival_Site-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+        <a href="https://github.com/espada105/LikeLion_Hackathon_2023" target="_blank">
+          <img src="https://img.shields.io/badge/LikeLion_Hackathon_2023-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+        <br>
+        <a href="https://github.com/espada105/LikeLion_Ideathon_2023" target="_blank">
+          <img src="https://img.shields.io/badge/LikeLion_Ideathon_2023-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+        <a href="https://github.com/espada105/InternetProgramming" target="_blank">
+          <img src="https://img.shields.io/badge/Internet_Programming-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+        <br>
+        <a href="https://github.com/espada105/Chippo_web" target="_blank">
+          <img src="https://img.shields.io/badge/Chippo_Web-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+        <a href="https://github.com/espada105/helpService" target="_blank">
+          <img src="https://img.shields.io/badge/Help_Service-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+        <a href="https://github.com/espada105/HSU_FestivalSite_Front" target="_blank">
+          <img src="https://img.shields.io/badge/HSU_Festival_Frontend-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
       </td>
-      <td align="center" style="border: none; vertical-align: top; background-color: transparent;">
-        <h4>🧠 AI Projects</h4>
-        <div align="center">
-          <a href="https://github.com/espada105/OpenCV" target="_blank">
-            <img src="https://img.shields.io/badge/OpenCV-181717?style=for-the-badge&logo=opencv&logoColor=white"/>
-          </a>
-          <a href="https://github.com/espada105/AI_Predicting_Pregnancy_Success" target="_blank">
-            <img src="https://img.shields.io/badge/AI_Pregnancy_Prediction-181717?style=for-the-badge&logo=github&logoColor=white"/>
-          </a>
-          <br>
-          <a href="https://github.com/espada105/NewRecipe" target="_blank">
-            <img src="https://img.shields.io/badge/New_Recipe-181717?style=for-the-badge&logo=github&logoColor=white"/>
-          </a>
-          <a href="https://github.com/espada105/NVIDIA-CUDA-Parallel-Processing" target="_blank">
-            <img src="https://img.shields.io/badge/NVIDIA_CUDA-181717?style=for-the-badge&logo=nvidia&logoColor=76B900"/>
-          </a>
-          <br>
-          <a href="https://github.com/espada105/Artificial-Intelligence-Programming" target="_blank">
-            <img src="https://img.shields.io/badge/AI_Programming-181717?style=for-the-badge&logo=github&logoColor=white"/>
-          </a>
-          <a href="https://github.com/espada105/ArtificialIntelligenceAlgorithm" target="_blank">
-            <img src="https://img.shields.io/badge/AI_Algorithm-181717?style=for-the-badge&logo=github&logoColor=white"/>
-          </a>
-          <br>
-          <a href="https://github.com/espada105/MachineLearning" target="_blank">
-            <img src="https://img.shields.io/badge/Machine_Learning-181717?style=for-the-badge&logo=scikit-learn&logoColor=F7931E"/>
-          </a>
-          <a href="https://github.com/espada105/DisplayDefectPredictionModel" target="_blank">
-            <img src="https://img.shields.io/badge/Display_Defect_Prediction-181717?style=for-the-badge&logo=github&logoColor=white"/>
-          </a>
-          <br>
-          <a href="https://github.com/espada105/ComputerVision-and-Deep-learning" target="_blank">
-            <img src="https://img.shields.io/badge/CV_&_Deep_Learning-181717?style=for-the-badge&logo=github&logoColor=white"/>
-          </a>
-        </div>
+      <td align="center" valign="top">
+        <a href="https://github.com/espada105/OpenCV" target="_blank">
+          <img src="https://img.shields.io/badge/OpenCV-181717?style=for-the-badge&logo=opencv&logoColor=white"/>
+        </a>
+        <a href="https://github.com/espada105/ArtificialIntelligenceAlgorithm" target="_blank">
+          <img src="https://img.shields.io/badge/AI_Algorithm-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+        <a href="https://github.com/espada105/AI_Predicting_Pregnancy_Success" target="_blank">
+          <img src="https://img.shields.io/badge/AI_Pregnancy_Prediction-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+        <br>
+        <a href="https://github.com/espada105/NewRecipe" target="_blank">
+          <img src="https://img.shields.io/badge/New_Recipe-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+        <a href="https://github.com/espada105/NVIDIA-CUDA-Parallel-Processing" target="_blank">
+          <img src="https://img.shields.io/badge/NVIDIA_CUDA-181717?style=for-the-badge&logo=nvidia&logoColor=76B900"/>
+        </a>
+        <br>
+        <a href="https://github.com/espada105/Artificial-Intelligence-Programming" target="_blank">
+          <img src="https://img.shields.io/badge/AI_Programming-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+        <br>
+        <a href="https://github.com/espada105/MachineLearning" target="_blank">
+          <img src="https://img.shields.io/badge/Machine_Learning-181717?style=for-the-badge&logo=scikit-learn&logoColor=F7931E"/>
+        </a>
+        <a href="https://github.com/espada105/DisplayDefectPredictionModel" target="_blank">
+          <img src="https://img.shields.io/badge/Display_Defect_Prediction-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+        <br>
+        <a href="https://github.com/espada105/ComputerVision-and-Deep-learning" target="_blank">
+          <img src="https://img.shields.io/badge/CV_&_Deep_Learning-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
       </td>
-      <td align="center" style="border: none; vertical-align: top; background-color: transparent;">
-        <h4>🚀 AeroSpace Projects</h4>
-        <div align="center">
-          <a href="https://github.com/espada105/satellite_simulator" target="_blank">
-            <img src="https://img.shields.io/badge/Satellite_Simulator-181717?style=for-the-badge&logo=github&logoColor=white"/>
-          </a>
-        </div>
-        <h4>⚙️ Other Projects</h4>
-        <div align="center">
-          <a href="https://github.com/espada105/Algorithm" target="_blank">
-            <img src="https://img.shields.io/badge/Algorithm-181717?style=for-the-badge&logo=github&logoColor=white"/>
-          </a>
-          <a href="https://github.com/espada105/Discord_HitoriGotoh" target="_blank">
-            <img src="https://img.shields.io/badge/Discord_Bot-181717?style=for-the-badge&logo=discord&logoColor=5865F2"/>
-          </a>
-          <br>
-          <a href="https://github.com/espada105/ToyProject" target="_blank">
-            <img src="https://img.shields.io/badge/Toy_Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
-          </a>
-          <a href="https://github.com/espada105/ProgramingPractice" target="_blank">
-            <img src="https://img.shields.io/badge/Programming_Practice-181717?style=for-the-badge&logo=github&logoColor=white"/>
-          </a>
-        </div>
+      <td align="center" valign="top">
+        <a href="https://github.com/espada105/satellite_simulator" target="_blank">
+          <img src="https://img.shields.io/badge/Satellite_Simulator-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+        <br>
+        <br>
+        <a href="https://github.com/espada105/Algorithm" target="_blank">
+          <img src="https://img.shields.io/badge/Algorithm-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+        <a href="https://github.com/espada105/Discord_HitoriGotoh" target="_blank">
+          <img src="https://img.shields.io/badge/Discord_Bot-181717?style=for-the-badge&logo=discord&logoColor=5865F2"/>
+        </a>
+        <br>
+        <a href="https://github.com/espada105/ToyProject" target="_blank">
+          <img src="https://img.shields.io/badge/Toy_Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+        <a href="https://github.com/espada105/ProgramingPractice" target="_blank">
+          <img src="https://img.shields.io/badge/Programming_Practice-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
       </td>
     </tr>
   </table>
   </details>
-  
-
   
 </div>
