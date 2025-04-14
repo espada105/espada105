@@ -136,6 +136,10 @@
           <img src="https://img.shields.io/badge/satellite_image_processing-181717?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
         <br>
+        <a href="https://github.com/espada105/LLM-For-UAV-Control-In-Unity" target="_blank">
+            <img src="https://img.shields.io/badge/LLM_For_UAV_Control_In_Unity-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+        <br>
         <br>
         <a href="https://github.com/espada105/Algorithm" target="_blank">
           <img src="https://img.shields.io/badge/Algorithm-181717?style=for-the-badge&logo=github&logoColor=white"/>
