@@ -3,16 +3,16 @@
   ![건강하세요](https://github.com/user-attachments/assets/db14d888-dd48-42ef-a54f-28bcfa972d49)
   <br>
  
-  <h3>Vision AI Engineer</h3>
+  <h3>SoftWare Engineer</h3>
  
  
   <i>
-    Welcome to my GitHub. If you read my README, you'll be healthy.
+    Welcome to my GitHub. My name is Seongin Hong
   </i>
   
   <br>
   <i>
-  I'm interested in Artificial Intelligence & AeroSpace
+  II like to apply the latest technology to projects. I'm also interested in AI&aerospace
   </i>
   
   <h3>TeckStack</h3>
@@ -39,9 +39,9 @@
   <br>
     <br>
       <br>
+<!-- <img src="https://github.com/user-attachments/assets/7d73e9ee-5cdf-4b1f-b6cc-4ac9713db4e2" width="32%" alt="프리렌3">
 <img src="https://github.com/user-attachments/assets/7d73e9ee-5cdf-4b1f-b6cc-4ac9713db4e2" width="32%" alt="프리렌3">
-<img src="https://github.com/user-attachments/assets/7d73e9ee-5cdf-4b1f-b6cc-4ac9713db4e2" width="32%" alt="프리렌3">
-<img src="https://github.com/user-attachments/assets/7d73e9ee-5cdf-4b1f-b6cc-4ac9713db4e2" width="32%" alt="프리렌3">
+<img src="https://github.com/user-attachments/assets/7d73e9ee-5cdf-4b1f-b6cc-4ac9713db4e2" width="32%" alt="프리렌3"> -->
 <!-- <img src="https://github.com/user-attachments/assets/7d73e9ee-5cdf-4b1f-b6cc-4ac9713db4e2" width="16%" alt="프리렌3">
 <img src="https://github.com/user-attachments/assets/7d73e9ee-5cdf-4b1f-b6cc-4ac9713db4e2" width="16%" alt="프리렌3">
 <img src="https://github.com/user-attachments/assets/7d73e9ee-5cdf-4b1f-b6cc-4ac9713db4e2" width="16%" alt="프리렌3">
@@ -95,6 +95,13 @@
         </a>
       </td>
       <td align="center" valign="top">
+        <a href="https://github.com/HSU-AviationComputer-DevTeam/Medical-Artificial-Intelligence-Platform" target="_blank">
+          <img src="https://img.shields.io/badge/Medical_AIP-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+        <a href="https://github.com/HSU-AviationComputer-DevTeam/NeuraSeg-HRNet-High-Resolution-MRI-Brain-Tumor-Detection-and-Segmentation" target="_blank">
+          <img src="https://img.shields.io/badge/NeuraSeg_HRNet-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+        <br>
         <a href="https://github.com/espada105/OpenCV" target="_blank">
           <img src="https://img.shields.io/badge/OpenCV-181717?style=for-the-badge&logo=opencv&logoColor=white"/>
         </a>
