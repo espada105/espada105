@@ -12,7 +12,7 @@
   
   <br>
   <i>
-  II like to apply the latest technology to projects. I'm also interested in AI&aerospace
+  II like to apply the latest technology to projects. I'm also interested in AI & AeroSpace
   </i>
   
   <h3>TeckStack</h3>
